@@ -7,6 +7,7 @@
 
 
 DevOps Foundations: Learning and Lab Testing Guide
+
 Git, Docker, Kubernetes, Ansible | 8 weeks | 1 to 1.5 hours per day
 How to use this guide: For every lab, do the Steps, then run the Test commands and compare with Expected result. Tick the checkbox only when the test passes. If it fails, use the Troubleshooting table at the end.
 ________________________________________
